@@ -1,4 +1,8 @@
 Bye!
 new line
 another line (newbranch)
+Bye 
+add some line 
 Bye
+another line from clonerepo
+

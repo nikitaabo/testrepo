@@ -1,5 +1,7 @@
 everything is cool!
 add some text
-user2
 
+line from 2
+changed file2 from master
+user2
 

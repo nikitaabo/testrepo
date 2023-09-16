@@ -6,5 +6,5 @@ add some line
 Bye
 another line from clonerepo
 
-line from new 
 user1
+

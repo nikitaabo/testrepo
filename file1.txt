@@ -2,3 +2,4 @@ Hello!
 new line
 another line (newbranch)
 Bye
+another line from clonerepo

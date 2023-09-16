@@ -6,3 +6,5 @@ add some line
 Bye
 another line from clonerepo
 
+line from new 
+changed file1 from new

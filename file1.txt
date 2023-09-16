@@ -1,3 +1,4 @@
 Hello!
 new line
-another string (master)
+another line (newbranch)
+
